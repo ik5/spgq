@@ -58,4 +58,4 @@ psql -U <username> -f schema.sql <dbname>
 
 ## Authors
 
-Created by Alexandr Zaikin (@zaikin) and Alexey Palazhchenko (@AlekSi). Licensed under [MIT-style license](LICENSE).
+Created by [Alexandr Zaikin](https://github.com/zaikin) and [Alexey "AlekSi" Palazhchenko](https://github.com/AlekSi). Licensed under [MIT-style license](LICENSE).
